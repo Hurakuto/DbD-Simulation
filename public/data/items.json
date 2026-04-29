@@ -1,0 +1,16 @@
+[
+  {
+    "id": "flashlight",
+    "name": "Flashlight",
+    "description": "A standard flashlight. Can be used to blind the killer.",
+    "rarity": "yellow",
+    "icon": "flashlight"
+  },
+  {
+    "id": "med_kit",
+    "name": "Ranger Med-Kit",
+    "description": "A high-quality medical kit. Increases healing speed.",
+    "rarity": "purple",
+    "icon": "cross"
+  }
+]

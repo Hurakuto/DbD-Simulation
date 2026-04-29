@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sprint_burst",
+    "name": "Sprint Burst",
+    "description": "When starting to run, break into a sprint at 150% of your normal running speed for 3 seconds.",
+    "role": "survivor",
+    "icon": "runner"
+  },
+  {
+    "id": "dead_hard",
+    "name": "Dead Hard",
+    "description": "When injured, tap into your adrenaline bank and endure a damage.",
+    "role": "survivor",
+    "icon": "shield"
+  },
+  {
+    "id": "pop_goes_the_weasel",
+    "name": "Pop Goes The Weasel",
+    "description": "After hooking a Survivor, the next Generator you damage instantly loses 20% of its current progression.",
+    "role": "killer",
+    "icon": "zap"
+  },
+  {
+    "id": "corrupt_intervention",
+    "name": "Corrupt Intervention",
+    "description": "At the start of the Trial, the 3 Generators furthest from you are blocked by The Entity for 120 seconds.",
+    "role": "killer",
+    "icon": "lock"
+  }
+]
